@@ -1,4 +1,4 @@
 # everestcollege
 my first git
 <br>
-author -swornima
+author -swornima chhumi
